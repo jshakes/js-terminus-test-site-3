@@ -1,0 +1,7 @@
+name: js-terminus-test-site-3
+recipe: pantheon
+config:
+  webroot: web
+  framework: wordpress
+  site: js-terminus-test-site-3
+  id: d350d966-77dc-4cda-98cf-e1c5c6ad4f98
